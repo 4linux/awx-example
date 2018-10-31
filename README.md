@@ -1,4 +1,4 @@
-tower-example
+node-exporter
 =============
 
-Ansible Tower Example Playbooks
+Instala o node exporter usando o Ansible.
